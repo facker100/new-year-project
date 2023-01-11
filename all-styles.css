@@ -1,0 +1,168 @@
+.baner-tittle {
+    text-align: right;
+    font-size: 55px;
+    padding: 150px 115px 8px 890px;
+    font-weight: 700;
+}
+
+.banner-discription {
+
+    margin-right: 110px;
+    font-family: 'work Sans';
+    text-align: right;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.section1 {
+    height: 800px;
+    background-image: url('./new-year-new-me/images/banner/banner1.png');
+    padding-bottom: 0px;
+    background-repeat: no-repeat;
+
+}
+
+.btn-prime {
+    color: aliceblue;
+    background: chocolate;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0px;
+    padding: 18px;
+    height: 64px;
+    border-radius: 5px;
+    margin-left: 1270px;
+}
+
+/* Secound Banner Style */
+.section2 {
+    margin: 300px 80px 50px 60px;
+    text-align: left;
+    display: flex;
+
+}
+
+.secound-banner-tittle {
+    margin-top: 60px;
+    font-family: 'Work Sans';
+    padding-left: 400px;
+    font-style: normal;
+    font-weight: 900px;
+    font-size: 65px;
+    padding-bottom: 30px;
+
+
+}
+
+.secound-benner-discription {
+    padding-left: 400px;
+    font-family: 'work sans';
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    color: #757575;
+}
+
+.secound-banner-point {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #757575;
+    font-family: 'Work Sans';
+    padding-left: 400px;
+}
+
+.all-texts {
+    padding-top: 100px;
+}
+
+/* My Plan Section Style */
+.my-plan {
+    font-size: 50px;
+    font-family: 'Work Sans';
+    font-weight: 700px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.plan-container {
+    display: flex;
+    gap: 200px;
+    margin: 100px 00px 200px 200px;
+    text-align: center;
+
+}
+
+.plan-tittle {
+    font-weight: 1100;
+    font-size: 28px;
+}
+
+.plan-discription {
+    color: #757575;
+    margin-bottom: 100px;
+}
+
+/* Gradent Image */
+.gradient-image {
+    margin: 200px 300px 250px 300px;
+    padding: 5px;
+    display: flex;
+    height: 250px;
+    width: 1000px;
+    background: url('./new-year-new-me/images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+
+
+
+.gradient-image-tittle {
+    color: rgb(252, 129, 28);
+    font-size: 40px;
+    text-align: left;
+}
+
+/* Footer Style */
+
+.footer {
+    height: 100%;
+    width: 100;
+    background: rgb(8, 5, 1);
+
+
+}
+
+.footer-tittle {
+    color: aliceblue;
+    background: rgb(8, 5, 1);
+    font-size: 25px;
+    font-family: 'work Sans';
+    padding: 150px 200px 0px 100px;
+}
+
+.footer-discription {
+    font-weight: 18px;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'work Sans';
+    ;
+    padding: 0px 0px 40px 100px;
+
+}
+
+.contuct {
+    font-size: 20px;
+    font-weight: 5px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    color: aliceblue;
+
+}
+
+.footer-immage {
+    display: flex;
+    gap: 20px;
+    margin-left: 90px;
+    padding-bottom: 200px;
+}
